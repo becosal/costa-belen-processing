@@ -13,3 +13,10 @@ En este repositorio se encuentran todas las prácticas del curso del IFAB: Proce
 
 Tenéis que crear un repositorio en Github con el siguiente nombre: *apellido-nombre-processing* para que vayáis guardando los ejercicios que os iré asignando a lo largo de este curso.
 Enviáis al email del profesor la url de ese repositorio.
+
+
+
+### Ejercicio 1
+
+Realizad con Processing el gráfico que se ve en este [enlace](http://fcordon.webs.upv.es/practicasProcessing/Dibujo_test/).
+Debéis guardar el trabajo con el siguiente nombre: *ejercicio1*.
