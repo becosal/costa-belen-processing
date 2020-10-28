@@ -36,7 +36,7 @@ void draw() {
   ellipse (350, 200, 50, 50);
   ellipse (50, 200, 50, 50);
   
-                      /* triangulos rojos */
+    stroke(190, 0, 0);                  /* triangulos rojos */
    beginShape();  
     vertex(200, 250);
     vertex(100, 398);
